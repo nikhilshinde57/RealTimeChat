@@ -3,13 +3,13 @@ A real time web based chat application.
 
 ------------------------------------------
 #Steps to run:
-1. Install Node.js '8.9.4' and above
+1. Install Node.js '8.9.4' and above.
 2. Go to the root directory of this project.
 3. On command line type '''npm install''' and hit enter key.
 4. On command line type '''npm start''' and hit enter key.
 
--Great now our server is running on default port '''3000'''
--Open any browser with which you are familiar and enter '''http://localhost:3000'''  and hit enter key.
+-- Great now our server is running on default port '''3000'''.
+-- Open any browser with which you are familiar and enter '''http://localhost:3000'''  and hit enter key.
 -You will see one form on web page.
 -Enter the display name and chat room name.
 -Display name is the name with that you will get introduced to all other member of that chat room.
